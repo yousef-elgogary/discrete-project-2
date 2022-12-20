@@ -1,0 +1,8 @@
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\discrete math object 2.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\discrete math object 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\discrete math object 2.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\youse\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
